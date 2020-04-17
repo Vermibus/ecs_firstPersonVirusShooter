@@ -1,7 +1,7 @@
 ## ecs First Person Shooter - Virus Edition
 
 
-![Exmaple Image](/repository_images/viruses.png)
+![Exmaple Image](/repository_images/viruses.PNG)
 
 
 #### Required Packages
